@@ -118,6 +118,8 @@ Install the [WorkflowLearning GitHub App](https://github.com/apps/workflowlearni
 
   ---
 
+Removed My Edit *Fixed*
+
 </details>
 
 ## Step 7 - Canvas
